@@ -91,8 +91,13 @@ Narcotics is forecasted to remain flat at ~330–370 incidents/month. No realloc
 
 
 ---
-🧭 Strategic Takeaway
+
+##  **Strategic Takeaway**🧭
+
 Policymakers should focus resources where the data is strongest: theft prevention in spring/summer. Avoid overreacting to noisy narcotics data. Forecasts should guide decisions but be combined with on-the-ground intelligence for balanced, effective crime prevention.
+
+---
+
 ## Recommendation
 
 **Prioritize Theft resources heading into summer 2023.** The 
