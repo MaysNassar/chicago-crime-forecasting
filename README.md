@@ -77,6 +77,13 @@ This project builds SARIMA/ARIMA forecasting models for two crime types — **Th
 
 ### 6-Month Crime Forecast: Jan–Jun 2023
 <img width="1376" height="508" alt="تنزيل (1)" src="https://github.com/user-attachments/assets/75a9a3a8-76ac-40cf-9433-d7c3b30b38e1" />
+The 6-month forecast (January–June 2023) points to one clear priority: Theft.
+
+Theft is expected to rise ~25% from January to June, climbing from ~4,024 to ~5,000 incidents/month. This is a predictable seasonal surge that happens every summer. Recommendation: begin shifting patrol resources to high-theft areas in April–May, before the peak hits.
+
+Narcotics is forecasted to remain flat at ~330–370 incidents/month. No reallocation of Narcotics resources is warranted based on this forecast. Note: the Narcotics model carries wide uncertainty and should be treated as a short-term stability signal only.
+
+
 
 
 ### Theft: Forecast vs Actual (Test Period)
