@@ -110,6 +110,12 @@ uncertainty and should not be used for long-range planning.
 
 ---
 
+---
+<img width="1173" height="615" alt="image" src="https://github.com/user-attachments/assets/a3aa27d5-b017-4ef3-a9b4-0656e6c03689" />
+
+Tableau Link: https://public.tableau.com/shared/GWB3J4GR6?:display_count=n&:origin=viz_share_link
+---
+
 ## Tools & Libraries
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
